@@ -1,5 +1,10 @@
 # Toko Alat Upacara
 
+## Project progress
+
+See [Project status](PROJECT-STATUS.md) for the planned milestones, phase schedule,
+Gantt chart, and verified progress snapshot.
+
 ## Jalankan seluruh aplikasi dengan Docker
 
 Pastikan Docker Desktop aktif. Salin `.env.example` menjadi `.env`, lalu isi semua nilai rahasia dengan nilai unik:
